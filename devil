@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ -f $1/.vendor_urls ]; then
+    echo "VendorBinaries"
+    echo "aptitude install libdevil1c2 libdevil-dev"
+    aptitude install libdevil1c2 libdevil-dev
+    exit 0
+else
+    exit 1
+fi
