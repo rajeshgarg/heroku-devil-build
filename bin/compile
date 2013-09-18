@@ -9,5 +9,5 @@ echo "-----> Found a   file"
 
     echo "VendorBinaries"
     echo "aptitude install libdevil1c2 libdevil-dev"
-    aptitude install libdevil1c2 libdevil-dev
+    apt-get install libdevil1c2 libdevil-dev
  
