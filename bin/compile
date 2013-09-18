@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+indent() {
+  sed -u 's/^/       /'
+}
+
+echo "-----> Found a   file"
+
+    echo "VendorBinaries"
+    echo "aptitude install libdevil1c2 libdevil-dev"
+    aptitude install libdevil1c2 libdevil-dev
+ 
