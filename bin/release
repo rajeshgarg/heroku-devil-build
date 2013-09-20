@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "--- {}"
+config_vars:
+  PATH: "vendor/devil-lib/bin:/usr/bin:/bin"
