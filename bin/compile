@@ -8,8 +8,8 @@ indent() {
 echo "-----> Found a   file"
 
     echo "VendorBinaries"
-    echo "aptitude install libdevil1c2 libdevil-dev start"
-   aptitude install libdevil1c2 libdevil-dev
+    echo "aptitude install libdevil1c2 libdevil-dev start to"
+    
     AWESOME_VM_BINARY="http://archive.ubuntu.com/ubuntu/pool/universe/d/devil/devil_1.7.8.orig.tar.gz"
     AWESOME_VM_VENDOR="vendor/devil-lib"
     # vendor awesome-vm
